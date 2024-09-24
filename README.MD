@@ -4,6 +4,7 @@
 
 Good Day
 Learning
+day2
 1. Fork this repository
 2. Create two GitHub action secrets (provided by your course instructor) as follows:
 ```
